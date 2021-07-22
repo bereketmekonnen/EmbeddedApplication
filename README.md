@@ -1,1 +1,1 @@
-# EmbeddedApplication
+This is a C++ implementation of a video card. the program captures image data by using the onboard camera found on the DE10 Standard FPGA board. the program uses openCV to capture and display a live video feed.
