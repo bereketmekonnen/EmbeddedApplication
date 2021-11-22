@@ -1,1 +1,1 @@
-This is a C++ implementation of a video card. the program captures image data by using the onboard camera found on the DE10 Standard FPGA board. the program uses openCV to capture and display a live video feed.
+This is a C++ implementation of a video card. the program captures image data by using the onboard camera found on the DE10 Standard FPGA board. The program uses TCP(Transmission Control Protocol) a connection-oriented communications protocol that facilitates the exchange of messages between computing devices in a network to send the vido data captured to the client. 
